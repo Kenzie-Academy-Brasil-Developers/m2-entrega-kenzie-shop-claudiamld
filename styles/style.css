@@ -30,7 +30,7 @@ h2{
 #card{
     width: 259px;
     height: 502px;
-    margin-top: 80px;
+    margin: 80px 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
